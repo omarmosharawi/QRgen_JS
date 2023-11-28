@@ -1,4 +1,4 @@
-# QR Code Genrator
+# QR Code Generator
 QRgen_JS is a simple and fast web app that generates QR codes from any text input. You can use it to create QR codes for URLs, messages, contacts, or any other information.
 
 ## Features
