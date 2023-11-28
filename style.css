@@ -42,6 +42,7 @@ header p {
   margin-top: 5px;
   color: #aaa;
   font-size: 16px;
+  text-align: center;
 }
 
 .wrapper .form {
@@ -136,6 +137,7 @@ footer {
   padding: 3px;
   margin: 0 auto;
   margin-top: 70px;
+  right: 0;
   left: 0;
   bottom: 0;
   width: 100%;
