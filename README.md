@@ -7,6 +7,9 @@ QRgen_JS is a simple and fast web app that generates QR codes from any text inpu
 - Scan the QR codes with your camera or upload an image file
 - Decode the QR codes and view the text content
 
+## Demo
+You can access the live demo of the web application here: [QR Code Generator](https://omarmosharawi.github.io/QRgen_JS/)
+
 ## Installation
 To run QRgen_JS locally, you need to have Node.js and npm installed on your machine. Then, follow these steps:
 
